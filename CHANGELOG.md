@@ -1,5 +1,10 @@
 # Changelog
 
+## \[0.10.1]
+
+- Support theme on macOS.
+  - [8af4d8f0](https://github.com/tauri-apps/tao/commit/8af4d8f02149f08093cc348e278f5792dab4a423) feat: support theme on macOS ([#408](https://github.com/tauri-apps/tao/pull/408)) on 2022-06-01
+
 ## \[0.10.0]
 
 - Fix movable window background on macOS.
